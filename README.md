@@ -1,1 +1,1 @@
-# Amazon-Global-Sales
+# Amazon Global Sales Analysis using PowerBI Dashboard
